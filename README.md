@@ -99,6 +99,3 @@ fluxbridge/
 - **Build**: `npm run tauri build`
 - **Check Rust**: `cd src-tauri && cargo check`
 
----
-
-Built with ❤️ using Rust and Tauri
