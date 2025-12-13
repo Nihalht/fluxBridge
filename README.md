@@ -7,7 +7,7 @@ FluxBridge creates a local mesh network between your devices, enabling instant c
 
 ## Features
 
-- **🔍 P2P Discovery**: Zero-config device discovery via mDNS
+- **ZZ8🔍 P2P Discovery**: Zero-config device discovery via mDNS
 - **📋 Universal Clipboard**: Automatic clipboard synchronization across devices
 - **📁 File Transfer**: Drag-and-drop file sharing
 
