@@ -1,4 +1,4 @@
-# FluxBridge - Cross-Platform Continuity Engine
+## FluxBridge - Cross-Platform Continuity Engine
 
 A Rust + Tauri application for seamless device connectivity featuring P2P discovery, universal clipboard sync, and file transfer.
 
