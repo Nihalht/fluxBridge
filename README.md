@@ -51,9 +51,7 @@ npm run tauri dev
 
 The terminal shows important events:
 - `Clipboard changed locally: [text]` - Local clipboard detected
-- `Received clipboard data: [text]` - Remote clipboard received
-- `Created PeerConnection` - WebRTC connection established
-- `Peer discovered: [name]` - New peer found on network
+- `Received clipboard data: [text]` - Remote clipboard received.
 
 ## Troubleshooting
 
